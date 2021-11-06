@@ -7,6 +7,8 @@ Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform
 O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
 
 ## Etapas do Desafio
+Clonar o repositório https://github.com/marcelomarques05/dio-desafio-dataproc
+
 Criar um bucket no Cloud Storage
 
 Atualizar o arquivo contador.py com o nome do Bucket criado nas linhas que contém {SEU_BUCKET}.
